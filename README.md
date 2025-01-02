@@ -1,4 +1,4 @@
 # rock-paper-scissors-tutorial-based
-Tutorial based "Rock, Paper, Scissors" project. Youtube link in the readme. 
+Tutorial based "Rock, Paper, Scissors" project. Youtube link of the tutorial:
 
 https://www.youtube.com/watch?v=qWPtKtYEsN4
